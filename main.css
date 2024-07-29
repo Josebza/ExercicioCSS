@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #f0f8ff;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    
+}
+
+.Entreterimento {
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    background-color:rgba(203, 233, 122, 0.411);
+    border-radius: 8px;
+
+}
+
+img {
+    border-radius: 8px;
+    max-width: 45%;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+article {
+    margin: 10px;
+    justify-content: space-between;
+}
+
+p {
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+
+h3 {
+    margin: 10px auto;
+}
+
+.Tecnologia {
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    background-color:rgba(113, 116, 113, 0.411);
+    border-radius: 8px;
+
+}
+
+
+
+
